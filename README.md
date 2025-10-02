@@ -1,5 +1,6 @@
 # Diversity & Inclusion in Open Source
-
+Joey Andrew Lopez
+Jehovah Gambino © GLOBAL INTELLIGENCE AGENCY © 
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
    * [Table of Contents](#diversity--inclusion-in-open-source)
